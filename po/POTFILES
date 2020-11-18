@@ -1,0 +1,7 @@
+data/fmacha.gnome.uitemplate.desktop.in
+data/fmacha.gnome.uitemplate.appdata.xml.in
+data/fmacha.gnome.uitemplate.gschema.xml
+src/window.ui
+src/main.py
+src/window.py
+
